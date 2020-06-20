@@ -1,1 +1,16 @@
 /* supp */
+body {
+	background: #757070;
+	font-family: "Sriracha", cursive;
+}
+label {
+	font-size: 1.5em;
+}
+footer {
+	text-align: center;
+	margin-top: 2em;
+	font-size: 2em;
+}
+nav {
+	font-size: 2em;
+}
